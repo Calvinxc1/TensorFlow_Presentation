@@ -1,2 +1,1 @@
-# TensorFlow_Presentation
-Materials for my TensorFlow presentation at PyData Denver, January '18
+Here you can find materials for my [TensorFlow presentation](https://www.meetup.com/PyData-Denver/events/246038964/) at PyData Denver, January 17, 2018.
